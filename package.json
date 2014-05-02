@@ -2,7 +2,7 @@
   "name": "language-vcl",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-vcl",
+  "repository": "https://github.com/jwfuller/language-vcl",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
