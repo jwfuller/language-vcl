@@ -1,7 +1,7 @@
 {
   "name": "language-vcl",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "VCL syntax highlight for Atom",
   "repository": "https://github.com/jwfuller/language-vcl",
   "license": "MIT",
   "engines": {
